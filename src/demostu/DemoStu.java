@@ -20,6 +20,8 @@ public class DemoStu {
         
         System.out.println(" The value of i is "+ i);
         System.out.println("Bye!");
+        int j=50;
+        System.out.println(" The value of j is "+ j);
     }
     
 }
