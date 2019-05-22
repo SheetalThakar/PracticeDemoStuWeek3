@@ -19,6 +19,7 @@ public class DemoStu {
         int i=20;
         
         System.out.println(" The value of i is "+ i);
+        System.out.println("Bye!");
     }
     
 }
